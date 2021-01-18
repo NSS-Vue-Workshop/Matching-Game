@@ -1,24 +1,5 @@
-# matching-game
+# Build a Matching Game
 
-## Project setup
-```
-npm install
-```
+For this project, build a memory matching game which has users flip over cards to reveal images, and then try to find match that card's match.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[**View a Demo**](https://nss-vue-matching-game.web.app/)
