@@ -1,4 +1,4 @@
-export default function getnameCards() {
+export default function getLanguageCards() {
   return [
     {
       id: 1,
